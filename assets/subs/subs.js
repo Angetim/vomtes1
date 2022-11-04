@@ -8,10 +8,10 @@ const subsQueryParams = new URLSearchParams(window.location.search)
  * sub1, ..., sp: - аналогично
  */
 const subs = {
-    sub1: "sub1",
-    sub2: "sub2",
-    sub3: "sub3",
-    sub4: "sub4",
+    sub1: "votes",
+    sub2: "votes1",
+    sub3: "votes2",
+    sub4: "votes3",
     sp: "sp",
     click_id: "votest"
 }
